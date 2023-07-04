@@ -1,3 +1,13 @@
+# MEMO
+
+```bash
+npm run build 
+# result: generate build directory
+
+npx serve -s build
+# result: deploy using serve package (in npx) 
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
